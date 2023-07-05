@@ -1,0 +1,166 @@
+<xml>
+	<curriculum curriculum_name="1-4 классы">
+		<skill skill_name="1-класс">
+			<subject subject_domain_name="Математические" subject_name="Математика" group_type_id="0"  hour_per_week="3" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Окружающий мир" group_type_id="0"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="5" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Чтение" group_type_id="0"  hour_per_week="4" difficulty="5"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="0"  hour_per_week="1" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="0"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Искусство" subject_name="Музыка" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="ИЗО" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+		<skill skill_name="2-класс">
+			<subject subject_domain_name="Математические" subject_name="Математика" group_type_id="0"  hour_per_week="4" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Окружающий мир" group_type_id="0"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="5" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Чтение" group_type_id="0"  hour_per_week="4" difficulty="5"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="0"  hour_per_week="1" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="0"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Искусство" subject_name="Музыка" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="ИЗО" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+		<skill skill_name="3-класс">
+			<subject subject_domain_name="Математические" subject_name="Математика" group_type_id="0"  hour_per_week="4" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Окружающий мир" group_type_id="0"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="5" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Чтение" group_type_id="0"  hour_per_week="4" difficulty="5"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="0"  hour_per_week="1" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="0"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Искусство" subject_name="Музыка" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="ИЗО" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+		<skill skill_name="4-класс">
+			<subject subject_domain_name="Математические" subject_name="Математика" group_type_id="0"  hour_per_week="4" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Окружающий мир" group_type_id="0"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="Этика" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="5" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Чтение" group_type_id="0"  hour_per_week="3" difficulty="5"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="0"  hour_per_week="1" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="0"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Искусство" subject_name="Музыка" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="ИЗО" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+	</skill>
+	</curriculum>
+	<curriculum curriculum_name="5-9 классы">
+		<skill skill_name="5-класс">
+			<subject subject_domain_name="Математические" subject_name="Математика" group_type_id="0"  hour_per_week="5" difficulty="8"/>
+			<subject subject_domain_name="Математические" subject_name="Информатика" group_type_id="2"  hour_per_week="1" difficulty="6"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Природоведение" group_type_id="0"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="6" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Литература" group_type_id="0"  hour_per_week="2" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="3" difficulty="7"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="1"  hour_per_week="2" hour_per_day="2" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="1"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Физкультура" subject_name="ОБЖ" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="Музыка" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="ИЗО" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+		<skill skill_name="6-класс">
+			<subject subject_domain_name="Математические" subject_name="Математика" group_type_id="0"  hour_per_week="5" difficulty="8"/>
+			<subject subject_domain_name="Математические" subject_name="Информатика" group_type_id="2"  hour_per_week="1" difficulty="6"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Природоведение" group_type_id="0"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="6" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Литература" group_type_id="0"  hour_per_week="2" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="3" difficulty="8"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="1"  hour_per_week="2" hour_per_day="2" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="1"  hour_per_week="3" difficulty="3"/>
+			<subject subject_domain_name="Физкультура" subject_name="ОБЖ" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="Музыка" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="ИЗО" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+		<skill skill_name="7-класс">
+			<subject subject_domain_name="Математические" subject_name="Алгебра" group_type_id="0"  hour_per_week="4" difficulty="10"/>
+			<subject subject_domain_name="Математические" subject_name="Геометрия" group_type_id="0"  hour_per_week="2" difficulty="12"/>
+			<subject subject_domain_name="Математические" subject_name="Информатика" group_type_id="2"  hour_per_week="1" difficulty="6"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Природоведение" group_type_id="0"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История края" group_type_id="0"  hour_per_week="1" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="5" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Литература" group_type_id="0"  hour_per_week="2" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="3" difficulty="7"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="1"  hour_per_week="2" hour_per_day="2" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="1"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Физкультура" subject_name="ОБЖ" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="Музыка" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+		<skill skill_name="8-класс">
+			<subject subject_domain_name="Математические" subject_name="Алгебра" group_type_id="0"  hour_per_week="4" difficulty="10"/>
+			<subject subject_domain_name="Математические" subject_name="Геометрия" group_type_id="0"  hour_per_week="2" difficulty="12"/>
+			<subject subject_domain_name="Математические" subject_name="Информатика" group_type_id="2"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Физика" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Биология" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Химия" group_type_id="0"  hour_per_week="2" difficulty="13"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="География" group_type_id="0"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История края" group_type_id="0"  hour_per_week="1" difficulty="4"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="Обществознание" group_type_id="0"  hour_per_week="1" difficulty="5"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="4" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Литература" group_type_id="0"  hour_per_week="2" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="3" difficulty="7"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Черчение" group_type_id="0"  hour_per_week="1" difficulty="5"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Технология" group_type_id="1"  hour_per_week="2" hour_per_day="2" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="1"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Физкультура" subject_name="ОБЖ" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="Исскуство" group_type_id="0"  hour_per_week="1" difficulty="5"/>
+		</skill>
+		<skill skill_name="9-класс">
+			<subject subject_domain_name="Математические" subject_name="Алгебра" group_type_id="0"  hour_per_week="3" difficulty="10"/>
+			<subject subject_domain_name="Математические" subject_name="Геометрия" group_type_id="0"  hour_per_week="2" difficulty="12"/>
+			<subject subject_domain_name="Математические" subject_name="Информатика" group_type_id="2"  hour_per_week="2" difficulty="6"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Физика" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="География" group_type_id="0"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Биология" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Химия" group_type_id="0"  hour_per_week="2" difficulty="13"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="Обществознание" group_type_id="0"  hour_per_week="1" difficulty="5"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История края" group_type_id="0"  hour_per_week="2" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Литература" group_type_id="0"  hour_per_week="3" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Черчение" group_type_id="0"  hour_per_week="1" difficulty="5"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Проф.подготовка" group_type_id="2"  hour_per_week="2" hour_per_day="2" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="1"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Физкультура" subject_name="ОБЖ" group_type_id="0"  hour_per_week="2" difficulty="3"/>
+			<subject subject_domain_name="Искусство" subject_name="Исскуство" group_type_id="0"  hour_per_week="1" difficulty="5"/>
+	</skill>
+	</curriculum>
+	<curriculum curriculum_name="10-11 классы">
+		<skill skill_name="10-класс">
+			<subject subject_domain_name="Математические" subject_name="Информатика" group_type_id="2"  hour_per_week="4" difficulty="6"/>
+			<subject subject_domain_name="Математические" subject_name="Алгебра" group_type_id="0"  hour_per_week="4" difficulty="10"/>
+			<subject subject_domain_name="Математические" subject_name="Геометрия" group_type_id="0"  hour_per_week="2" difficulty="12"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Физика" group_type_id="0"  hour_per_week="3" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Химия" group_type_id="0"  hour_per_week="1" difficulty="13"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Биология" group_type_id="0"  hour_per_week="1" difficulty="8"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="Обществознание" group_type_id="0"  hour_per_week="2" difficulty="5"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Литература" group_type_id="0"  hour_per_week="4" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="3" difficulty="7"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Проф.подготовка" group_type_id="2"  hour_per_week="4" hour_per_day="4" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="1"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Физкультура" subject_name="ОБЖ" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+		<skill skill_name="11-класс">
+			<subject subject_domain_name="Математические" subject_name="Информатика" group_type_id="2"  hour_per_week="4" difficulty="6"/>
+			<subject subject_domain_name="Математические" subject_name="Алгебра" group_type_id="0"  hour_per_week="5" difficulty="10"/>
+			<subject subject_domain_name="Математические" subject_name="Геометрия" group_type_id="0"  hour_per_week="2" difficulty="12"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Физика" group_type_id="0"  hour_per_week="3" difficulty="8"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Химия" group_type_id="0"  hour_per_week="1" difficulty="13"/>
+			<subject subject_domain_name="Естественно-научные" subject_name="Биология" group_type_id="0"  hour_per_week="1" difficulty="8"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="История" group_type_id="0"  hour_per_week="2" difficulty="8"/>
+			<subject subject_domain_name="Гуманитарные" subject_name="Обществознание" group_type_id="0"  hour_per_week="2" difficulty="5"/>
+			<subject subject_domain_name="Филологические" subject_name="Русский яз" group_type_id="0"  hour_per_week="2" difficulty="7"/>
+			<subject subject_domain_name="Филологические" subject_name="Литература" group_type_id="0"  hour_per_week="3" difficulty="4"/>
+			<subject subject_domain_name="Филологические" subject_name="Иностранный яз." group_type_id="2"  hour_per_week="3" difficulty="7"/>
+			<subject subject_domain_name="Трудовое обучение" subject_name="Проф.подготовка" group_type_id="2"  hour_per_week="4" hour_per_day="4" difficulty="2"/>
+			<subject subject_domain_name="Физкультура" subject_name="Физ.культура" group_type_id="1"  hour_per_week="3" difficulty="1"/>
+			<subject subject_domain_name="Физкультура" subject_name="ОБЖ" group_type_id="0"  hour_per_week="1" difficulty="3"/>
+		</skill>
+	</curriculum>
+</xml>
